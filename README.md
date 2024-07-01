@@ -1,2 +1,2 @@
 # meu-nome-cpp
-Aplicação onde aplico as transformações afins no meu nome, utilizando o Open Gl.
+Projeto de Modelagem e Construção de aplicações 3D, onde desenvolvi uma aplicação aplicando as transformações afins(escala, translação e rotação) no meu nome, utilizando o Open Gl.
